@@ -17,8 +17,8 @@ android {
         applicationId "com.rj.scheduler"
         minSdk 24
         targetSdk 35
-        versionCode 69
-        versionName "9.4"
+        versionCode 70
+        versionName "9.5"
     }
 
     signingConfigs {
